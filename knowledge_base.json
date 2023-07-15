@@ -1,0 +1,220 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of Italy?",
+      "answer": "Rome",
+      "intent": "location"
+    },
+    {
+      "question": "What is the color of the sky?",
+      "answer": "Blue",
+      "intent": "general"
+    },
+    {
+      "question": "How are you?",
+      "answer": "I'm doing great!",
+      "intent": "general"
+    },
+    {
+      "question": "How are you doing, mate?",
+      "answer": "I'm doing good",
+      "intent": "general"
+    },
+    {
+      "question": "What's up?",
+      "answer": "Not much, what about you?",
+      "intent": "general"
+    },
+    {
+      "question": "Where can I subscribe?",
+      "answer": "I don't know, subscribe to what?",
+      "intent": "general"
+    },
+    {
+      "question": "Say something funny",
+      "answer": "Your love life",
+      "intent": "funny"
+    },
+    {
+      "question": "Tell me more",
+      "answer": "I don't want to",
+      "intent": "general"
+    },
+    {
+      "question": "Okay",
+      "answer": "Okay?",
+      "intent": "general"
+    },
+    {
+      "question": "Hello",
+      "answer": "Hello",
+      "intent": "greeting"
+    },
+    {
+      "question": "Hello, what's up?",
+      "answer": "I am fine. How are you?",
+      "intent": "greeting"
+    },
+    {
+      "question": "What is the meaning of life?",
+      "answer": "42",
+      "intent": "philosophy"
+    },
+    {
+      "question": "Can you recommend a good book?",
+      "answer": "Sure! '1984' by George Orwell is a classic dystopian novel.",
+      "intent": "recommendation"
+    },
+    {
+      "question": "Who is the current president of the United States?",
+      "answer": "As of my knowledge cutoff in September 2021, the current president of the United States is Joe Biden.",
+      "intent": "politics"
+    },
+    {
+      "question": "What is the largest continent?",
+      "answer": "Asia is the largest continent.",
+      "intent": "geography"
+    },
+    {
+      "question": "How do you pronounce 'GIF'?",
+      "answer": "The pronunciation of 'GIF' is a subject of debate. It can be pronounced either with a hard 'g' (like 'gift') or with a soft 'g' (like 'jiff').",
+      "intent": "language"
+    },
+    {
+      "question": "What is the formula for calculating the area of a circle?",
+      "answer": "The formula to calculate the area of a circle is A = πr², where A represents the area and r represents the radius of the circle.",
+      "intent": "math"
+    },
+    {
+      "question": "What is the tallest mountain in the world?",
+      "answer": "Mount Everest is the tallest mountain in the world.",
+      "intent": "geography"
+    },
+    {
+      "question": "How many planets are there in our solar system?",
+      "answer": "There are eight planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.",
+      "intent": "space"
+    },
+    {
+      "question": "What is the speed of light?",
+      "answer": "The speed of light in a vacuum is approximately 299,792 kilometers per second (km/s) or about 186,282 miles per second (mi/s).",
+      "intent": "physics"
+    },
+    {
+      "question": "What is artificial intelligence?",
+      "answer": "Artificial intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think and learn like humans. It involves various subfields such as machine learning, natural language processing, computer vision, and robotics.",
+      "intent": "technology"
+    },
+    {
+      "question": "What is blockchain technology?",
+      "answer": "Blockchain is a decentralized and distributed ledger technology that securely records and verifies transactions across multiple computers. It provides transparency, immutability, and security, making it suitable for various applications like cryptocurrencies, supply chain management, and smart contracts.",
+      "intent": "technology"
+    },
+    {
+      "question": "What is cloud computing?",
+      "answer": "Cloud computing refers to the delivery of on-demand computing services over the internet. It allows users to access and use resources such as servers, storage, databases, software, and applications without the need for local infrastructure or technical expertise.",
+      "intent": "technology"
+    },
+    {
+      "question": "What is cybersecurity?",
+      "answer": "Cybersecurity is the practice of protecting computer systems, networks, and data from digital attacks, unauthorized access, and damage. It involves implementing measures such as firewalls, encryption, antivirus software, and security policies to safeguard information and prevent cyber threats.",
+      "intent": "technology"
+    },
+    {
+      "question": "What is the Internet of Things (IoT)?",
+      "answer": "The Internet of Things (IoT) refers to the network of interconnected physical devices, vehicles, appliances, and other objects embedded with sensors, software, and connectivity to exchange data and enable remote monitoring and control. It enables the integration of the digital and physical worlds for various applications.",
+      "intent": "technology"
+    },
+    {
+      "question": "What is virtual reality (VR)?",
+      "answer": "Virtual reality (VR) is a technology that creates a simulated environment or immersive experience through computer-generated visuals, sounds, and sometimes haptic feedback. Users can interact with and explore the virtual world, often using specialized headsets or devices.",
+      "intent": "technology"
+    },
+    {
+      "question": "What is DNA?",
+      "answer": "DNA (Deoxyribonucleic acid) is a molecule that carries the genetic instructions used in the growth, development, functioning, and reproduction of all known living organisms and many viruses. It consists of two long chains of nucleotides twisted into a double helix structure.",
+      "intent": "science"
+    },
+    {
+      "question": "What is the theory of relativity?",
+      "answer": "The theory of relativity, developed by Albert Einstein, consists of two major parts: the theory of special relativity and the theory of general relativity. Special relativity deals with the laws of physics in inertial (non-accelerating) reference frames, while general relativity extends the principles of special relativity to include gravity and describes the curvature of spacetime.",
+      "intent": "physics"
+    },
+    {
+      "question": "What is the concept of time dilation?",
+      "answer": "Time dilation is a phenomenon predicted by the theory of relativity where time appears to run slower in the presence of strong gravitational fields or when an object is moving at high speeds relative to another object. It means that time is not absolute but depends on the observer's relative motion or position.",
+      "intent": "physics"
+    },
+    {
+      "question": "What is cognitive psychology?",
+      "answer": "Cognitive psychology is a branch of psychology that focuses on studying mental processes such as attention, perception, memory, language, problem-solving, and decision-making. It explores how individuals acquire, process, and store information and how cognitive processes influence behavior.",
+      "intent": "psychology"
+    },
+    {
+      "question": "What is the concept of nature vs. nurture in psychology?",
+      "answer": "The nature vs. nurture debate in psychology concerns the relative contributions of genetics (nature) and environmental factors (nurture) in shaping human behavior and development. It explores the interplay between inherited traits and environmental influences in various aspects, including intelligence, personality, and mental health.",
+      "intent": "psychology"
+    },
+    {
+      "question": "What are Newton's laws of motion?",
+      "answer": "Newton's laws of motion are three fundamental principles that describe the motion of objects. They are: 1) The law of inertia (an object at rest stays at rest, and an object in motion stays in motion with the same speed and direction unless acted upon by an external force), 2) The relationship between force, mass, and acceleration (F = ma), and 3) The principle of action and reaction (for every action, there is an equal and opposite reaction).",
+      "intent": "physics"
+    },
+    {
+      "question": "What is the theory of quantum mechanics?",
+      "answer": "Quantum mechanics is a branch of physics that provides a mathematical framework for describing the behavior of matter and energy at the smallest scales, such as atoms and subatomic particles. It introduces concepts like wave-particle duality, superposition, and quantum entanglement, challenging classical notions of determinism and causality.",
+      "intent": "physics"  
+    },
+    {
+      "question": "What is 1+1?",
+      "intent": "math"
+    },
+    {
+      "question": "What is 5*3?",
+      "intent": "math"
+    },
+    {
+      "question": "What is 10-4?",
+      "intent": "math"
+    },
+    {
+      "question": "What is 12/3?",
+      "intent": "math"
+    },
+    {
+      "question": "What is the Pythagorean theorem?",
+      "answer": "The Pythagorean theorem states that in a right-angled triangle, the square of the length of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the lengths of the other two sides. It can be written as a mathematical equation: a² + b² = c², where 'c' represents the length of the hypotenuse, and 'a' and 'b' represent the lengths of the other two sides.",
+      "intent": "math"
+    },
+    {
+      "question": "What is the derivative of a function?",
+      "answer": "In calculus, the derivative of a function measures the rate at which the function's value changes as its input (or independent variable) changes. Geometrically, it represents the slope of the tangent line to the graph of the function at a given point. The derivative is often denoted as f'(x) or dy/dx.",
+      "intent": "math"
+    },
+    {
+      "question": "What is object-oriented programming?",
+      "answer": "Object-oriented programming (OOP) is a programming paradigm that organizes code around objects, which are instances of classes. It emphasizes concepts such as encapsulation, inheritance, and polymorphism to structure and design programs. OOP languages, such as Java and Python, provide mechanisms to define and manipulate objects and their interactions.",
+      "intent": "programming"
+    },
+    {
+      "question": "What is the difference between a compiler and an interpreter?",
+      "answer": "A compiler and an interpreter are both tools used in software development. A compiler translates the entire source code of a program into machine code or bytecode before execution. It checks for errors and generates an executable file or a separate output file. On the other hand, an interpreter reads and executes the source code line by line, converting it into machine code or executing it directly. It interprets and executes each statement individually, providing immediate feedback but without generating an executable file.",
+      "intent": "programming"
+    },
+    {
+      "question": "What is the role of a variable in programming?",
+      "answer": "In programming, a variable is a named storage location that holds a value. It is used to store and manipulate data within a program. Variables can hold different types of data, such as numbers, text, or objects, and their values can change during program execution. They enable programmers to store and retrieve data, perform calculations, make decisions, and control program flow.",
+      "intent": "programming"
+    },
+    {
+      "question": "What is recursion in programming?",
+      "answer": "Recursion is a programming technique where a function calls itself to solve a problem by breaking it down into smaller subproblems. It involves defining a base case that specifies when the function should stop calling itself and a recursive case that describes how the function calls itself with smaller input until the base case is reached. Recursion is commonly used in solving problems that exhibit a recursive structure, such as traversing hierarchical data structures or implementing algorithms like factorial or Fibonacci sequence.",
+      "intent": "programming"
+    },
+    {
+      "question": "What is an algorithm?",
+      "answer": "An algorithm is a step-by-step procedure or a set of rules for solving a specific problem or accomplishing a particular task. It provides a clear and unambiguous description of how to perform a task or solve a problem, typically in a finite number of steps. Algorithms are used in various fields, including computer science, mathematics, and everyday problem-solving.",
+      "intent": "programming"
+    }
+  ]
+}
